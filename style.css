@@ -1,0 +1,31 @@
+* {
+    margin: 1px;
+    padding: 1px 1px 1px 1px;
+    background-color: black;
+    text-align: center;
+}
+
+.music {
+    margin: 10px 5px;
+    padding-top: 5px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+h1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 50px;
+    color: rgb(206, 137, 35);
+}
+
+.audio::-webkit-slider-thumb {
+    -webkit-appearance: none; /* Personalize a aparência do cursor de volume */
+    appearance: none;
+    width: 10px; /* Ajuste o tamanho do cursor */
+    height: 10px;
+    background: #555; /* Cor do cursor */
+    cursor: pointer;
+    width: 300px; /* Ajuste a largura do player */
+  margin: 20px auto; /* Centralize o player na página */
+  }
