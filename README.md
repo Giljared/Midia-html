@@ -1,5 +1,15 @@
 # Midia-html
-My favorite song
+
+<span align="center">
+
+#  My favorite song 👋 
+## Link: https://my-song-gil-silva.netlify.app/
+
+</span>
+
+![Capturar](https://github.com/Giljared/Midia-html/assets/64940515/ee0cf1e7-7c61-4e42-a337-18a69356d866)
+
+
 # Inserindo Músicas com HTML e CSS: Um Guia Completo
 Este guia detalhado irá te ensinar como inserir músicas em seu site usando HTML e CSS. Seja você um desenvolvedor experiente ou um iniciante curioso, este guia irá te ajudar a criar um player de música funcional e esteticamente agradável para o seu site.
 
